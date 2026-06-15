@@ -1,0 +1,58 @@
+# MIDOGpp - Imagens e Anotações
+MIDOGpp/images/
+MIDOGpp/labels/
+MIDOGpp/slide/
+MIDOGpp/data/
+MIDOGpp/checkbox_imgs/
+
+# MITOS_WSI_CCMCT - Imagens e Bancos de Dados
+MITOS_WSI_CCMCT/WSI/
+MITOS_WSI_CCMCT/databases/
+
+# MITOS_WSI_CMC - Imagens e Anotações
+MITOS_WSI_CMC/WSI/
+MITOS_WSI_CMC/databases/
+MITOS_WSI_CMC/geojson_output/
+
+# YOLO-Colonoscopy - Dados com Imagens
+YOLO-Colonoscopy/data/
+
+# Resultados e saídas
+MITOS_WSI_CCMCT/results/
+MITOS_WSI_CMC/results/
+YOLO-Colonoscopy/results_data_all/
+YOLO-Colonoscopy/results_data_CVC-ClinicDB/
+YOLO-Colonoscopy/results_data_MIDOGpp/
+YOLO-Colonoscopy/models/
+
+# Modelos treinados
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporários
+temp/
+*.log
+
