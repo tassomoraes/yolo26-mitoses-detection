@@ -7,11 +7,9 @@ MIDOGpp/checkbox_imgs/
 
 # MITOS_WSI_CCMCT - Imagens e Bancos de Dados
 MITOS_WSI_CCMCT/WSI/
-MITOS_WSI_CCMCT/databases/
 
 # MITOS_WSI_CMC - Imagens e Anotações
 MITOS_WSI_CMC/WSI/
-MITOS_WSI_CMC/databases/
 MITOS_WSI_CMC/geojson_output/
 
 # YOLO-Colonoscopy - Dados com Imagens
