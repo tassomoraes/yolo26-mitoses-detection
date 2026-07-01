@@ -6,6 +6,9 @@ Um pipeline de aprendizado profundo para detecção de figuras mitóticas em ima
 
 Este projeto fornece uma estrutura completa para detecção de mitoses, ou seja, células em divisão, em imagens de patologia digital. Ele oferece suporte a múltiplos conjuntos de dados, incluindo MIDOGpp, MITOS_WSI_CCMCT e MITOS_WSI_CMC, além de incluir recursos de pré-processamento, treinamento, teste e inferência. O sistema utiliza o YOLO26 como modelo principal, mas também oferece suporte a arquiteturas alternativas, como YOLO8, YOLO9, YOLO10, YOLO11, YOLO12 e RT-DETR.
 
+### Vídeo de Apresentação do Projeto
+[![Vídeo de Apresentação do Projeto](https://img.youtube.com/vi/b60L-pGy15c/0.jpg)](https://www.youtube.com/watch?v=b60L-pGy15c)
+
 ## Funcionalidades
 
 * **Suporte a múltiplos modelos**: YOLO26, como modelo principal, YOLO8, YOLO9, YOLO10, YOLO11, YOLO12, YOLOE, YOLOW e RT-DETR.
